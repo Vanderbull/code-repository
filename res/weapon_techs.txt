@@ -1,0 +1,98 @@
+#Level 1
+Lasers - Deals 1 - 4 damage to the target.
+Heavy Lasers - Deals 1 - 7 damage to the target with a range of 2.
+Nuclear Missile - Deals 4 damage to the target. Adds +1 level to the attacker's attack rating for this missile only.
+Nuclear Bomb - Deals 3 - 12 damage to the target. Can only attack planets.
+#Level 2
+Hand Lasers - Adds 5 to ground combat rolls.
+#Level 4
+Hyper V Rockets - Deals 6 damage to the target. Adds +1 level to the attacker's attack rating for this missile only.
+#Level 5
+Gatling Lasers - Fires 4 shots per turn. Deals 1 - 4 damage per hit. Requires the same space as 3 lasers.
+#Level 6
+Anti-missile Rockets - Defensive Special Equipment. Destroys 40% of incoming missiles minus 1% per tech level of the missile.
+#Level 7
+Neutron Pellet Gun - Deals 2 - 5 damage, halves the effectiveness of the target's shields.
+#Level 8
+Hyper X Rockets - Deals 8 damage to the target. Adds +1 level to the attacker's attack rating for this missile only.
+#Level 9
+Fusion Bomb - Deals 4 - 16 damage to the target. Can only attack planets.
+#Level 10
+Ion Cannon - Deals 3 - 8 damage to the target.
+Heavy Ion Cannon - Deals 3 - 15 damage to the target with a 2 space range.
+#Level 11
+Scatter Pack V Missiles - Splits into 5 missiles that each deal 6 points of damage to the target.
+#Level 12
+Ion Rifle - Adds 10 to ground combat rolls. Replaces lower level rifle technologies.
+#Level 13
+Mass Driver - Deals 5 - 8 damage, halves the effectiveness of the enemy's shields.
+#Level 14
+Mercullite Missiles - Deals 10 damage to the target. Adds +2 level to the attacker's attack rating for this missile only.
+#Level 15
+Neutron Blaster - Regular is 3 - 12 damage with 1 space range. Heavy is 3 - 24 with a 2 space range.
+#Level 16
+Anti-matter Bomb - Deals 5 - 20 damage to the target. Can only attack planets.
+#Level 17
+Graviton Beam - Deals 1 - 15 damage to the target. Damage beyond what is needed to kill the ship transfers to the next ship.
+#Level 18
+Stinger Missiles - Deals 15 damage to the target. Adds + 3 level to the attacker's attack rating for this missile only.
+#Level 19
+Hard Beam - Deals 8 - 12 damage, halves the effectiveness of the enemy's shields.
+#Level 20
+Fusion Beam - Deals 4 - 16 damage with a 1 space range. Also researches Heavy Fusion Beam - Deals 4 - 30 damage with a 2 space range.
+#Level 21
+Ion Stream Projector - Deals damage equal to 20% of the target's hit points plus 1/2% for each firing ship. Round down, minimum damage of 1.
+#Level 22
+Omega Bomb - Deals 10 - 50 damage to the target. Can only attack planets.
+#Level 23
+Anti-matter Torpedoes - Deals 30 damage, can only be fired every other turn.
+#Level 24
+Fusion Rifle - Adds 15 to ground combat rolls. Replaces lower level rifle technologies.
+#Level 25
+Megabolt Cannon - Deals 2 - 20 damage. Wide beam gives the computer a + 3 attack rating when firing this weapon.
+#Level 26
+Phasor - Regular is 5 - 20. Heavy is 5 - 40 with a 2 space range.
+#Level 27
+Scatter Pack VII Missiles - Splits into 7 missiles that each deal 10 points of damage to the target.
+#Level 28
+Auto Blaster - Deals 4 - 16 damage. Fires 3 times per turn.
+#Level 29
+Pulson Missiles - Deals 20 damage to the target. Adds + 4 level to the attacker's attack rating for this missile only.
+#Level 30
+Tachyon Beam - Deals 1 - 25 damage to the target. Damage beyond what is needed to kill the ship transfers to the next ship.
+#Level 31
+Hand Phasor - Adds 20 to ground combat rolls. Replaces lower level rifle technologies.
+#Level 32
+Gauss Autocannon - Deals 7 - 10 damage. Fires 3 times per turn. Halves the effectiveness of the target's shields.
+#Level 33
+Particle Beam - Deals 10 - 20 damage, halves the effectiveness of the enemy's shields.
+#Level 34
+Hercular Missiles - Deals 25 damage to the target. Adds + 5 level to the attacker's attack rating for this missile only.
+#Level 35
+Plasma Cannon - Deals 6 - 30 damage.
+#Level 37
+Disruptor - 10 - 40 damage, Range 2.
+#Level 38
+Pulse Phasor - Deals 5 - 20 damage. Fires 3 times per turn.
+#Level 39
+Neutronium Bomb - Deals 40 - 70 damage. Can only attack planetary targets.
+#Level 40
+Hellfire Torpedoes - Deals 4 attacks to the target per hit, each for 25 damage. Fires every other turn.
+#Level 41
+Zeon Missiles - Deals 30 damage to the target. Adds + 7 level to the attacker's attack rating for this missile only.
+#Level 42
+Plasma Rifle - Adds 30 to ground combat rolls. Replaces lower level rifle technologies.
+#Level 43
+Proton Torpedoes - Deals 75 damage to the target. Fires once every other turn.
+#Level 44
+Scatter Pack X Missiles - Splits into 10 missiles that each deal 15 points of damage to the target.
+#Level 45
+Tri Focus Plasma Cannon - Deals 20 - 50 damage.
+#Level 46
+Stellar Converter - Deals 4 attacks to the target, each dealing 10 - 35 damage.
+#Level 47
+Neutron Stream Projector - Deals damage equal to 40% of the target's hit points plus 1/2% for each firing ship. Round down, minimum damage of 1.
+#Level 48
+Mauler Device - Deals 20 - 100 damage.
+#Level 50
+Plasma Torpedoes - Deals 150 damage to the target. Fires every other turn. Damage is reduced by 15 for each space travelled.

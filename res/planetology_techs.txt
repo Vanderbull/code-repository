@@ -1,0 +1,89 @@
+#Level 1
+Ecological Restoration - Eliminates 2 units of pollution for 1 BC.
+
+#Level 2
+Terraforming +10 - Increases maximum colonist units on the terraformed planet by 10, for a cost of 50 BC.
+
+#Level 3
+Controlled Barren Environment - Allows ships equipped with this to sacrifice themselves to create a colony on a planet with a barren or better environment.
+
+#Level 5
+Improved Ecological Restoration - Eliminates 3 units of pollution for 1 BC.
+
+#Level 6
+Controlled Tundra Environment - Allows ships equipped with this to sacrifice themselves to create a colony on a planet with a tundra or better environment.
+
+#Level 9
+Terraforming +20 - Increases maximum colonist units on the terraformed planet by 20, for a cost of 100 BC.
+
+#Level 10
+Controlled Dead Environment - Allows ships equipped with this to sacrifice themselves to create a colony on a planet with a dead or better environment.
+
+#Level 11
+Death Spores - Ship weapon that reduces the maximum population of a planet by 1 each time it is fired. This is not affected by shields.
+
+#Level 12
+Controlled Inferno Environment - Allows ships equipped with this to sacrifice themselves to create a colony on a planet with a inferno or better environment.
+
+#Level 13
+Enhanced Ecological Restoration - Eliminates 5 units of pollution for 1 BC.
+
+#Level 14
+Terraforming +30 - Increases maximum colonist units on the terraformed planet by 30, for a cost of 150 BC.
+
+#Level 15
+Controlled Toxic Environment - Allows ships equipped with this to sacrifice themselves to create a colony on a planet with a Toxic or better environment.
+
+#Level 16
+Soil Enrichment - Converts normal environments to fertile environments for a cost of 150 BC. Increases the base size of the planet by 25%.
+
+#Level 17
+Bio Toxin Antidote - Reduces the damage to population from all death weapons by 1.
+
+#Level 18
+Controlled Radiated Environment - Allows ships equipped with this to sacrifice themselves to create a colony on a planet with a radiated or better environment.
+
+#Level 20
+Terraforming +40 - Increases maximum colonist units on the terraformed planet by 40, for a cost of 200 BC.
+
+#Level 21
+Cloning - Reduces the cost to create one unit of population to 10 BC.
+
+#Level 22
+Atmospheric Terraforming - Converts hostile environments to normal environments for a cost of 150 BCs.
+
+#Level 24
+Advanced Ecological Restoration - Eliminates 10 units of pollution for 1 BC.
+
+#Level 26
+Terraforming +50 - Increases maximum colonist units on the terraformed planet by 50, for a cost of 250 BC.
+
+#Level 27
+Doom Virus - Ship weapon that reduces the maximum population of a planet by 2 each time it is fired. This is not affected by shields.
+
+#Level 30
+Advanced Soil Enrichment - Converts fertile environments to gaia environments for a cost of 300 BC. Increases the base size of the planet by 50%.
+
+#Level 32
+Terraforming +60 - Increases maximum colonist units on the terraformed planet by 60, for a cost of 300 BC.
+
+#Level 34
+Complete Ecological Restoration - Eliminates 20 units of pollution for 1 BC.
+
+#Level 36
+Universal Antidote - Reduces the damage to population from all death weapons by 2.
+
+#Level 38
+Terraforming +80 - Increases maximum colonist units on the terraformed planet by 80, for a cost of 400 BC.
+
+#Level 40
+Bio Terminator - Ship weapon that reduces the maximum population of a planet by 3 each time it is fired. This is not affected by shields.
+
+#Level 42
+Cloning - Reduces the cost to create one unit of population to 5 BC.
+
+#Level 44
+Terraforming +100 - Increases maximum colonist units on the terraformed planet by 100, for a cost of 500 BC.
+
+#Level 50
+Complete Terraforming - Increases maximum colonist units on the terraformed planet by 120, for a cost of 600 BC.

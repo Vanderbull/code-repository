@@ -1,0 +1,216 @@
+#All techs will be listed in the order of Computers, Construction, Force Fields, Planetology, Propulsion, and Weapons
+
+Level 1
+
+Robotics Controls 2,Battle Computer Mark 1,Battle Scanner
+Titanium Armor
+Class I Deflector Shield
+Ecological Restoration
+Retro Engines
+Lasers,Heavy Lasers,Nuclear Missile,Nuclear Bomb
+
+Level 2
+
+ECM Jammer 1, Terraforming +10, Hand Lasers
+
+Level 3
+
+Industrial Tech 9, Controlled Barren Environment, Hydrogen Fuel Cells (Range 4)
+
+Level 4
+
+Class 2 Shields
+Deep Space Scanner, Hyper-V Rockets
+
+Level 5
+
+Battle Computer Mark 2, Reduced Industrial Waste 80%, Improved Ecological Restoration, Deutrium Fuel Cells (Range 5), Gatling Lasers
+
+Level 6
+
+Controlled Tundra Environment, Nuclear Engines (Warp 2), Anti-missile Rockets
+
+Level 7
+
+ECM Jammer Mark 2, Neutron Pellet Gun
+
+Level 8
+
+Improved Robotics Control III, Industrial Tech 8, Personal Deflector Shield, Terraforming +20, Hyper-X Rockets
+
+Level 9
+
+Controlled Dead Environment, Irridium Fuel Cells (Range 6), Fusion Bomb
+
+Level 10
+
+Death Spores
+Battle Computer Mark III, Duralloy Armor, Class III Deflector Shields, Inertial Stabilizer, Ion Cannon
+
+Level 11
+
+Battle Suits, Scatter Pack V Missiles
+
+Level 12
+
+ECM Jammer Mark III, Class V Planetary Shields, Controlled Inferno Environment, Sub Light Drives (Warp 3), Ion Rifle
+
+Level 13
+
+Improved Space Scanner, Industrial Tech 7, Enhanced Ecological Restoration, Mass Driver
+
+Level 14
+
+Automated Repair, Class IV Deflector Shields, Terraforming +30, Dotomite Crystals (Range 7), Mercullite Missiles
+
+Level 15
+
+Battle Computer Mark IV, Reduced Industrial Waste 60%, Controlled Toxic Environment, Neutron Blaster
+
+Level 16
+
+Repulsor Beam, Soil Enrichment, Energy Pulsar, Anti-matter Bomb
+
+Level 17
+
+ECM Jammer Mark IV, Zoritum Armor, Bio Toxin Antidote, Graviton Beam
+
+Level 18
+
+Improved Robotics Control IV
+Industrial Tech 6, Controlled Radiated Environment, Fusion Drives (Warp 4), Stinger Missiles
+
+Level 19
+
+Urridium Fuel Cells (Range 8), Hard Beam
+
+Level 20
+
+Warp Dissipator
+Battle Computer Mark V, Class V Deflector Shields, Terraforming +40, Fusion Beam
+
+Level 21
+
+Personal Absorption Shield, Cloning, Ion Stream Projector
+
+Level 22
+
+ECM Jammer Mark V, Class X Planetary Shields, Atmospheric Terraforming, Omega Bomb
+
+Level 23
+
+Advanced Space Scanner, Industrial Tech 5, Reajax II Fuel Cells (Range 9), Anti-matter Torpedoes
+
+Level 24
+
+Impulse Drives (Warp 5)
+Armored Exoskeleton, Class VI Deflector Shields, Advanced Ecological Restoration, Fusion Rifles
+
+Level 25
+
+Battle Computer Mark VI, Reduced Industrial Waste 40%, Megabolt Cannon
+
+Level 26
+
+Andrium Armor, Terraforming +50, Phasor
+
+Level 27
+
+Cloaking Device
+ECM Jammer Mark VI, Doom Virus, Star Gates, Scatter Pack VII Missiles
+
+Level 28
+
+Industrial Tech 4
+Improved Robotics Control V, Auto Blaster
+
+Level 29
+
+Trilithium Crystals (Range 10), Pulson Missiles
+
+Level 30
+
+Battle Computer Mark VII, Class VII Deflector Shields, Advanced Soil Enrichment, Ion Drives (Warp 6), Tachyon Beam
+
+Level 31
+
+Zyro Shield, Hand Phasor
+
+Level 32[edit]
+
+ECM Jammer Mark VII, Class XV Planetary Shields, Terraforming +60, Gauss Autocannon
+
+Level 33[edit]
+
+Industrial Tech 3, Particle Beam
+
+Level 34[edit]
+
+High Energy Focus
+Hyperspace Communications, Tritanium Armor, Class IX Deflector Shields, Complete Ecological Restoration, Hercular Missiles
+
+Level 35[edit]
+
+Battle Computer Mark VIII, Reduced Industrial Waste 20%, Plasma Cannon
+
+Level 36[edit]
+
+Advanced Damage Control, Universal Antidote, Anti-Matter Drives (Warp 7)
+
+Level 37
+
+ECM Jammer Mark VIII, Stasis Field, Disruptor
+
+Level 38
+
+Improved Robotics Control VI, Industrial Tech 2, Personal Barrier Shield, Terraforming +80, Sub Space Teleporter, Pulse Phasor
+
+Level 39
+
+Neutronium Bomb
+
+Level 40
+
+Powered Armor
+Battle Computer Mark IX, Class XI Deflector Shields, Bio Terminator, Ionic Pulsar, Hellfire Torpedo
+
+Level 41
+
+Thorium Fuel Cells (Unlimited Range), Zeon Missiles
+
+Level 42
+
+ECM Jammer Mark IX, Adamantium Armor, Class XX Planetary Shield, Advanced Cloning, Interphased Drives (Warp 8), Plasma Rifle
+
+Level 43
+
+Black Hole Generator, Sub Space Interdictor, Proton Torpedoes
+
+Level 44
+
+Class XIII Deflector Shields, Terraforming +100, Scatter Pack X Missiles
+
+Level 45
+
+Battle Computer Mark X, Industrial Waste Elimination, Combat Transporters, Tri Focus Plasma Cannon
+
+Level 46
+
+Oracle Interface, Lightning Shield, Inertial Nullifier, Stellar Converter
+
+Level 47
+
+ECM Jammer Mark X, Neutron Stream Projector
+
+Level 48
+
+Improved Robotics Control VII, Hyper Drives (Warp 9), Mauler Device
+
+Level 49
+
+Technology Nullifier
+
+Level 50
+
+Neutronium Armor, Complete Terraforming
+Battle Computer Mark XI, Class XV Deflector Shields, Displacement Device, Plasma Torpedo

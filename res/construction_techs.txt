@@ -1,0 +1,74 @@
+#Level 1
+Titanium Armor - Standard armor for ships and missile bases. Gives small ships 3 hit points, medium ships 18 hit points, large ships 100 hit points, and assault ships 600 hit points. Gives missile bases 15 hit points.
+
+#Level 3
+Industrial Tech 9 - Reduces the cost to construct a factory to 9 BCs.
+
+#Level 5
+Reduced Industrial Waste 80% - Reduces the pollution by factories to 80% of its original amount.
+
+#Level 8
+Industrial Tech 8 - Reduces the cost to construct a factory to 8 BCs.
+
+#Level 10
+Duralloy Armor - Increases the armor protection on ships that equip it by 50% (round down). Adds 5 to ground combat rolls. Replaces titanium armor which really provides no sort of benefit anyway.
+
+#Level 11
+Battle Suits - Adds 10 to ground combat rolls.
+
+#Level 13
+Industrial Tech 7 - Reduces the cost to construct a factory to 7 BCs.
+
+#Level 14
+Automated Repair Unit - "Heals" each equipped ship 15% of its maximum hit points per turn.
+
+#Level 15
+Reduced Industrial Waste 60% - Reduces the pollution by factories to 60% of its original amount.
+
+#Level 17
+Zoritum Armor - Increases the armor protection on ships that equip it by 100%. Adds 10 to ground combat rolls. Replaces any other kind of armor on ground combat troops that is lower than itself.
+
+#Level 18
+Industrial Tech 6 - Reduces the cost to construct a factory to 6 BCs.
+
+#Level 23
+Industrial Tech 5 - Reduces the cost to construct a factory to 5 BCs.
+
+#Level 24
+Armored Exoskeleton - Adds 20 to ground combat rolls. Replaces Battle Suits.
+
+#Level 25
+Reduced Industrial Waste 40% - Reduces pollution by factories to 40% of its original amount.
+
+#Level 26
+Andrium Armor - Increases the hit points of equipped ships by 150% of the original amount (round down). Adds 15 to ground combat rolls. Replaces any other kind of armor on ground combat troops that is lower than itself.
+
+#Level 28
+Industrial Tech 4 - Reduces the cost to construct a factory to 4 BCs.
+
+#Level 33
+Industrial Tech 3 - Reduces the cost to construct a factory to 3 BCs.
+
+#Level 34
+Tritanium Armor - Increases the hit points of equipped ships by 200% of the original amount. Adds 20 to ground combat rolls. Replaces any other kind of armor on ground combat troops that is lower than itself.
+
+#Level 35
+Reduced Industrial Waste 20% - Reduces pollution by factories to 20% of its original amount.
+
+#Level 36
+Advanced Damage Control Unit - "Heals" each equipped ship 30% of its maximum hit points per turn.
+
+#Level 38
+Industrial Tech 2 - Reduces the cost to construct a factory to 2 BCs.
+
+#Level 40
+Powered Armor - Adds 30 to ground combat rolls. Replaces Battle Suits and Armored Exoskeleton.
+
+#Level 42
+Adamantium Armor - Increases the hit points of equipped ships by 250% of the original amount (round down). Adds 25 to ground combat rolls. Replaces any other kind of armor on ground combat troops that is lower than itself.
+
+#Level 45
+Industrial Waste Elimination - Reduces pollution by factories to 0% of its original amount. Completely eliminates all pollution by factories owned.
+
+#Level 50
+Neutronium Armor - Increases the hit points of equipped ships by 300% of the original amount. Adds 30 to ground combat rolls. Replaces any other kind of armor on ground combat troops that is lower than itself.

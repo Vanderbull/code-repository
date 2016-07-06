@@ -1,0 +1,9 @@
+wood
+stone
+plastic
+gold
+silver
+copper
+tin
+quicksilver
+bronze

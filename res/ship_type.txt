@@ -1,0 +1,38 @@
+dreadstar
+cyclops
+paladin
+escort
+corvette
+seeker
+marauder
+foxbat
+sky hawk
+knight
+condor
+warbird
+shark
+manta
+hornet
+devastator
+black widow
+scorpion
+destroyer
+avenger
+dark star
+hunter
+gladiator
+punisher
+warbear
+kraken
+panther
+hydra
+warcat
+cheetah
+lynx
+star blazer
+banshee
+cutlass
+penetrator
+nemesis
+pirahna
+sun fire

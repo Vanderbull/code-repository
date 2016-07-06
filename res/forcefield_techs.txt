@@ -1,0 +1,71 @@
+#Level 1
+Class I Deflector Shield - Reduces all damage to equipped targets by 1.
+
+#Level 4
+Class II Deflector Shield - Reduces all damage to equipped targets by 2.
+
+#Level 8
+Personal Deflector Shield - Adds 10 to ground combat rolls.
+
+#Level 10
+Class III Deflector Shield - Reduces all damage to equipped targets by 3.
+
+#Level 12
+Class V Planetary Shield - Reduces all damage done to planetary missile bases by 5 when constructed.
+
+#Level 14
+Class IV Deflector Shield - Reduces all damage to equipped targets by 4.
+
+#Level 16
+Repulsor Beam - Pushes away all ships who come within 1 space of the equipped ship, keeping them at a distance of at least 2 in the combat grid.
+
+#Level 20
+Class V Deflector Shield - Reduces all damage to equipped targets by 5.
+
+#Level 21
+Personal Absorption Shield - Adds 20 to ground combat rolls. Replaces Personal Deflector Shield.
+
+#Level 22
+Class X Planetary Shield - Reduces all damage done to planetary missile bases by 10 when constructed.
+
+#Level 24
+Class VI Deflector Shield - Reduces all damage to equipped targets by 6.
+
+#Level 27
+Cloaking Device - When activated, adds 5 to the defense rating of equipped ships. Must be deactivated to fire weapons. Cannot be re-activated until the equipped ship ends a turn without firing any weapons.
+
+#Level 30
+Class VII Deflector Shield - Reduces all damage to equipped targets by 7.
+
+#Level 31
+Zyro Shield - Has a 75% chance per missile to destroy all missiles connecting with an equipped ship minus 1% per technology level of the missile.
+
+#Level 32
+Class XV Planetary Shield - Reduces all damage done to planetary missile bases by 15 when constructed.
+
+#Level 34
+Class IX Deflector Shield - Reduces all damage to equipped targets by 9.
+
+#Level 37
+Stasis Field - Removes the target from combat completely for 1 turn. Combat proceeds as if the target didn't exist.
+
+#Level 38
+Personal Barrier Shield - Adds 30 to all ground combat rolls. Replaces Personal Deflector Shield and Personal Absorbtion Shield.
+
+#Level 40
+Class XI Deflector Shield - Reduces all damage to equipped targets by 11.
+
+#Level 42
+Class XX Planetary Shield - Reduces all damage done to planetary missile bases by 20 when constructed.
+
+#Level 43
+Black Hole Generator - Creates a black hole that instantly sucks in enemy targets. Completely destroys 100% of enemy targets minus 2% per Shield Class of the target.
+
+#Level 44
+Class 13 Deflector Shields - Reduces all damage to equipped targets by 13.
+
+#Level 46
+Lightning Shield - Has a 100% chance per missile to destroy all missiles connecting with an equipped ship minus 1% per technology level of the missile.
+
+#Level 50
+Class XV Deflector Shield - Reduces all damage to equipped targets by 15.

@@ -1,0 +1,56 @@
+#Level 1
+Retro Engines - Allows equipped ships to travel at 1 parsec per turn and gives a maximum number of movement squares in space combat of 1.
+#Level 2
+Hydrogen Fuel Cells - Allows all ships to move a distance of 4 away from the owner's colonies.
+#Level 5
+Deuterium Fuel Cells - Allows all ships to move a distance of 5 away from the owner's colonies.
+#Level 6
+Nuclear Engines - Allows equipped ships to travel at 2 parsecs per turn and gives a maximum number of movement squares in space combat of 1.
+#Level 9
+Irridium Fuel Cells - Allows all ships to move a distance of 6 away from the owner's colonies.
+#Level 10
+Inertial Stabilizer - Increases the maneuverability rating of the equipped ship by 2 and increases the maximum number of movement squares in space combat by 1.
+#Level 12
+Sub Light Drives - Allows equipped ships to travel at 3 parsecs per turn and gives a maximum number of movement squares in space combat of 1.
+#Level 14
+Dotomite Crystals - Allows all ships to move a distance of 7 away from the owner's colonies.
+#Level 16
+Energy Pulsar - Deals 5 damage to all adjacent and diagonally adjacent ships plus 1 damage per 2 attacking ships.
+#Level 18
+Fusion Drives - Allows equipped ships to travel at 4 parsecs per turn and gives a maximum number of movement squares in space combat of 2.
+#Level 19
+Uridium Fuel Cells - Allows all ships to move a distance of 8 away from the owner's colonies.
+#Level 20
+Warp Dissipator - Ship special that reduces the defender's maneuverability rating by 0 - 1 per turn.
+#Level 23
+Reajax II Fuel Cells - Allows all ships to move a distance of 9 away from the owner's colonies.
+#Level 24
+Impulse Drives - Allows equipped ships to travel at 5 parsecs per turn and gives a maximum number of movement squares in space combat of 2.
+#Level 27
+Intergalactic Star Gates - Ships can travel between any colonies controlled by the owner that have star gates in 1 turn. Costs 3000 BCs to create. Constructed as if it were a ship design.
+#Level 29
+Trilithium Crystals - Allows all ships to move a distance of 10 away from the owner's colonies.
+#Level 30
+Ion Drives - Allows equipped ships to travel at 6 parsecs per turn and gives a maximum number of movement squares in space combat of 3.
+#Level 34
+High Energy Focus - Increases the attack range of all the direct fire weapons on the equipped ship by 3. This includes all weapons that are not missiles, torpedoes, death weapons, and bombs.
+#Level 36
+Anti-Matter Drives - Allows equipped ships to travel at 7 parsecs per turn and gives a maximum number of movement squares in space combat of 3.
+#Level 38
+Sub Space Teleporter - Equipped ships always move first in combat and can teleport directly to any square on the battle grid.
+#Level 40
+Ionic Pulsar - Deals 10 damage to all adjacent and diagonally adjacent ships plus 1 damage per 2 attacking ships.
+#Level 41
+Thorium Cells - Allows ships to travel an infinite distance from their owner's colonies.
+#Level 42
+Inter-phased Drives - Allows equipped ships to travel at 8 parsecs per turn and gives a maximum number of movement squares in space combat of 4.
+#Level 43
+Sub Space Interdictor - Nullifies the functionality of all sub-space teleporters in use over the owner's planets.
+#Level 45
+Combat Transporters - Ensures at least 50% of transporters land on the targeted planet.
+#Level 46
+Inertial Nullifier - Increases the maneuverability rating of the equipped ship by 4 and increases the maximum number of movement squares in space combat by 2.
+#Level 48
+Hyper Drives - Allows equipped ships to travel at 9 parsecs per turn and gives a maximum number of movement squares in space combat of 4.
+#Level 50
+Displacement Device - Causes 33% of all attacks to miss the target automatically.

@@ -1,0 +1,132 @@
+#Level 1
+Battle Computer Mark 1 - level 1 targeting computer
+
+#Level 2
+ECM Jammer Mark 1 - Adds 1 level to the missile defense rating of any ship that has it equipped.
+
+#Level 3
+
+#Level 4
+Deep Space Scanner - This technology allows your colonies to detect ships within a distance of 5 from each of your colonies and allows your ships to detect enemy ships at a distance of 1.
+
+#Level 5
+Battle Computer Mark II - Increases attack rating by two.
+
+#Level 6
+
+#Level 7
+ECM Jammer Mark II - Increases missile defense rating by two.
+
+#Level 8
+Improved Robotic Controls III - Allows each population unit to control 3 factories.
+
+#Level 9
+
+#Level 10
+Battle Computer Mark III - Increases attack rating by three.
+
+#Level 11
+
+#Level 12
+ECM Jammer Mark III - Increases missile defense rating by three.
+
+#Level 13
+Improved Space Scanner - Allows your colonies to detect enemy ships at a distance of 7 and allows your ships to detect enemy ships at a distance of 2. These scanners also allow you to determine the planet the enemy ships are travelling to and their ETA.
+
+#Level 14
+
+#Level 15
+Battle Computer Mark IV - Increases attack rating by four.
+
+#Level 16
+
+#Level 17
+ECM Jammer Mark IV - Increases missile defense rating by four.
+
+#Level 18
+Improved Robotic Controls IV - Allows each population unit to control 4 factories.
+
+#Level 19
+
+#Level 20
+Battle Computer Mark V - Increases attack rating by five.
+
+#Level 21
+
+#Level 22
+ECM Jammer Mark V - Increases missile defense rating by five.
+
+#Level 23
+Advanced Space Scanner - Allows your colonies to detect enemy ships at a distance of 9 and allows your ships to detect enemy ships at a distance of 3. Allows you to determine planet size, environment, habitability, and resources at a distance of 9 on the galactic map without having a ship in orbit over the colony.
+Note: Does not allow the user to access Orion technology, or get any technology from un-scouted artifacts worlds.
+
+#Level 24
+
+#Level 25
+Battle Computer Mark VI - Increases attack rating by six.
+
+#Level 26
+
+#Level 27
+ECM Jammer Mark VI - Increases missile defense rating by six.
+
+#Level 28
+Improved Robotic Controls V - Allows each population unit to control 5 factories.
+
+#Level 29
+
+#Level 30
+Battle Computer Mark VII - Increases attack rating by 7.
+
+#Level 31
+
+#Level 32
+ECM Jammer Mark VII - Increases missile defense rating by 7.
+
+#Level 33
+
+#Level 34
+Hyperspace Communications - Allows you to change destination orders of your ships in transit.
+
+#Level 35
+Battle Computer Mark VIII - Increases attack rating by 8.
+
+#Level 36
+
+#Level 37
+ECM Jammer Mark VIII - Increases missile defense rating by 8.
+
+#Level 38
+Improved Robotic Controls VI - Allows each population unit to control 6 factories.
+
+#Level 39
+
+#Level 40
+Battle Computer Mark IX - Increases attack rating by 9.
+
+#Level 41
+
+#Level 42
+ECM Jammer Mark IX - Increases missile defense rating by 9.
+
+#Level 43
+
+#Level 44
+
+#Level 45
+Battle Computer Mark X - Increases attack rating by 10.
+
+#Level 46
+Oracle Interface - Allows all "direct fire" weapons on the equipped ship to act as if they have the "armor piercing" quality. This includes pretty much everything except missiles, torpedoes, bombs, and anything that counts as a special system.
+
+#Level 47
+ECM Jammer Mark X - Increases missile defense rating by 10.
+
+#Level 48
+Improved Robotic Controls VII - Allows each population unit to control 7 factories.
+
+#Level 49
+Technology Nullifier - Decreases the enemy's attack rating by 2 - 6 each time it is fired.
+
+#Level 50
+Battle Computer Mark XI - Increases attack rating by 11.

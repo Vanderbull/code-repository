@@ -1,0 +1,647 @@
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Laser
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Heavy Laser
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Gatling Laser
+5
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Neutron Pellet Gun
+7
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Ion Cannon
+10
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Heavy Ion Cannon
+10
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Mass Driver
+13
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Neutron Blaster
+15
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Heavy Blast Cannon
+17
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Graviton Beam
+19
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Hard Beam
+20
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Fusion Beam
+20
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Heavy Fusion Beam
+20
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Megabolt Cannon
+25
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Phasor
+26
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Heavy Phasor
+26
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Auto Blaster
+28
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Tachyon Beam
+30
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Gauss Autocannon
+32
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Particle Beam
+33
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Plasma Cannon
+35
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Disruptor
+37
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Pulse Phasor
+38
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Tri-Focus Plasma
+45
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Stellar Converter
+46
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Mauler Device
+48
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Nuclear Bomb
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Fusion Bomb
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Death Spores
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Anti-Matter Bomb
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Omega-V Bomb
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Doom Virus
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Neutronium Bomb
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Bio Terminator
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+0
+# - MISSILES AND TORPEDOES ----------------------------------------------
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Nuclear Missiles
+1
+4
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+4
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Hyper-V Rockets
+1
+6
+6
+3
+10
+25
+0
+0
+0
+# RANGE
+5
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Hyper-X Missiles
+1
+8
+8
+3
+10
+25
+0
+0
+0
+# RANGE
+4
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Scatter Pack V Rockets
+1
+6
+6
+3
+10
+25
+0
+0
+0
+# RANGE
+5
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Merculite Missiles
+1
+10
+10
+3
+10
+25
+0
+0
+0
+# RANGE
+6
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Stinger Missiles
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+7
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Anti-Matter Torpedoes
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+8
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Scatter Pack VII Missiles
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+6
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,rangev
+Pulson Missile
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+8
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Hercular Missiles
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+9
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Hellfire Torpedoes
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+10
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Zeon Missiles
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+10
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Proton Torpedoes
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+10
+#name,level,min-damage,max-damage,cost,size,power,bombs,bonus,speed,range
+Scatter Pack X Missiles
+1
+1
+4
+3
+10
+25
+0
+0
+0
+# RANGE
+7
+# NAME
+Plasma Torpedoes
+# LEVEL
+50
+# MIN-DAMAGE
+150
+# MAX-DAMAGE
+150
+# COST
+150
+# SIZE
+150
+# POWER
+450
+# BOMBS
+0
+# BONUS
+7
+# SPEED
+6
+# RANGE
+10
