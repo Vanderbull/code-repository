@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="stylesheet.xsl" ?>
+
+<!-- Created by XMLLogger -->
+
+<Project>
+	<Name>CGraphics</Name>
+	<Type>Project</Type>
+	<FileName>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</FileName>
+	<Compiled>Feb 18 2011 09:46:32</Compiled>
+	<CommentLines>
+		<CommentLine>Handles most of the game funtionality</CommentLine>
+	</CommentLines>
+	<LogEntries>
+		<LogEntry>
+			<ClassName>Main</ClassName>
+			<FuncName>main</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Starting up</Info>
+			<Line>56</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>9</Info>
+			<Line>114</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>glob_anim_frame_x + y</Info>
+			<Line>115</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>0</Info>
+			<Line>116</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>main_hwnd == hwnd</Info>
+			<Line>117</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>FileData(data/logs/images.txt)</Info>
+			<Line>127</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Creating tiles</Info>
+			<Line>132</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initializing GUI objects</Info>
+			<Line>172</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>52</Info>
+			<Line>173</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/arcane_circle.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/blinding_snow.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/cosmic_energy.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/evil.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/fireball.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/frost.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/healing_calm.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/lightening.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/map.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/prism.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/storm_of_leaves.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/wall_of_flames.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellicons/will_o_the_wisp.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/RickardEntertainment.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/Title BG.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/cardinal.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/nethack.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/city_icons.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/standardbutton.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/equipment.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/mini-pc-sheet.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/options.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/face_sprites.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/dungeon.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/spellbook_chaos.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/pic.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/create.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/FireAnimations.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/menu.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/backpanel.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>data/gfx/images/logo.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:40 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/menu_background.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/charsheet.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/buttonsmisc.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/chapterimages.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/pqpc_dialoguemain.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/BattleBG.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/gameover.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/vpl_nearlytropical3animated.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/inventory.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/qataria_elfwood.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/ff4bosses.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/gfx/Spells.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/gfx/Items.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/gfx/Effects.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>Initiating image</Info>
+			<Line>237</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+		<LogEntry>
+			<ClassName>CGraphics</ClassName>
+			<FuncName>Init</FuncName>
+			<DebugType>Info</DebugType>
+			<Timestamp>Fri Feb 18 09:46:41 2011
+</Timestamp>
+			<Info>data/gfx/images/buttonsmisc2.bmp</Info>
+			<Line>238</Line>
+			<File>c:\users\tempo\downloads\programming\endless-port\graphics\cgraphics.cpp</File>
+		</LogEntry>
+	</LogEntries>
+</Project>
